@@ -1,1 +1,1 @@
-Demo exploring GitHub + Jira insights using Rovo.
+Exploring F1 telemetry using Rovo.
